@@ -1,0 +1,270 @@
+@PART[Benjee10_MMSEV_chassis]:NEEDS[CommunityTechTree]
+// Planetside Exploration Vehicle Chassis
+{
+	@TechRequired = commandModules
+}
+
+@PART[Benjee10_MMSEV_grapple]:NEEDS[CommunityTechTree]
+// Planetside Exploration Vehicle Grapple Unit
+{
+	@TechRequired = actuators
+}
+
+@PART[Benjee10_MMSEV_headlight]:NEEDS[CommunityTechTree]
+// MU-45 Adjustable Micro Spot Light
+{
+	@TechRequired = electrics
+}
+
+@PART[Benjee10_MMSEV]:NEEDS[CommunityTechTree]
+// Planetside Exploration Vehicle Command Module
+{
+	@TechRequired = commandModules
+}
+
+@PART[Benjee10_MMSEV_monopropSled]:NEEDS[CommunityTechTree]
+// Planetside Exploration Vehicle Service Module
+{
+	@TechRequired = specializedControl
+}
+
+@PART[Benjee10_MMSEV_wheelLinear]:NEEDS[CommunityTechTree]
+// P-G40L Linear Rover Wheel
+{
+	@TechRequired = advancedMotors
+}
+
+@PART[Benjee10_MMSEV_wheelMount]:NEEDS[CommunityTechTree]
+// P-G40M Rover Wheel Actuating Mount
+{
+	@TechRequired = actuators
+}
+
+@PART[Benjee10_MMSEV_baseHDU]:NEEDS[CommunityTechTree]
+// PT-3A Command Node Module
+{
+	@TechRequired = advExploration
+}
+
+@PART[Benjee10_base_HDU_attic]:NEEDS[CommunityTechTree]
+// PT-3H Expandable Habitat Module
+{
+	@TechRequired = metaMaterials
+}
+
+@PART[Benjee10_base_HDU_base]:NEEDS[CommunityTechTree]
+// PT-3S Octagonal Structural Support Unit
+{
+	@TechRequired = composites
+}
+
+@PART[Benjee10_MMSEV_baseHDU_hab]:NEEDS[CommunityTechTree]
+// PT-3B Habitation Module
+{
+	@TechRequired = advExploration
+}
+
+@PART[Benjee10_MMSEV_adapter_0-9375]:NEEDS[CommunityTechTree]
+// PT-091A 1.25m to 0.9375m Adapter
+{
+	@TechRequired = spaceExploration
+}
+
+@PART[Benjee10_MMSEV_crewTube0]:NEEDS[CommunityTechTree]
+// PT-106 1.25m Access Tube (0.625m length)
+{
+	@TechRequired = spaceExploration
+}
+
+@PART[Benjee10_MMSEV_crewTube1]:NEEDS[CommunityTechTree]
+// PT-112 1.25m Access Tube (1.25m length)
+{
+	@TechRequired = spaceExploration
+}
+
+@PART[Benjee10_MMSEV_crewTube2]:NEEDS[CommunityTechTree]
+// PT-125 1.25m Access Tube (2.5m length)
+{
+	@TechRequired = spaceExploration
+}
+
+@PART[Benjee10_MMSEV_baseDockLowProfile]:NEEDS[CommunityTechTree]
+// PD-0625 Low-Profile Connection Port
+{
+	@TechRequired = miniaturization
+}
+
+@PART[Benjee10_MMSEV_endCapRound]:NEEDS[CommunityTechTree]
+// PT-115A 1.875m to 1.25m Adapter
+{
+	@TechRequired = spaceExploration
+}
+
+@PART[Benjee10_MMSEV_baseGreenhouse]:NEEDS[CommunityTechTree]
+// PT-M100G Hydroponics Module
+{
+	@TechRequired = spaceExploration
+}
+
+@PART[Benjee10_MMSEV_baseHabLong]:NEEDS[CommunityTechTree]
+// PT-M100H Habitation Module
+{
+	@TechRequired = spaceExploration
+}
+
+@PART[Benjee10_MMSEV_baseHabShort]:NEEDS[CommunityTechTree]
+// PT-M50H Habitation Module
+{
+	@TechRequired = spaceExploration
+}
+
+@PART[Benjee10_MMSEV_baseLab]:NEEDS[CommunityTechTree]
+// PT-M100L Laboratory Module
+{
+	@TechRequired = advExploration
+}
+
+@PART[Benjee10_MMSEV_baseLander]:NEEDS[CommunityTechTree]
+// PT-M100C Command Cabin
+{
+	@TechRequired = commandModules
+}
+
+@PART[Benjee10_MMSEV_baseLifter]:NEEDS[CommunityTechTree]
+// PT-S20 Hydraulic Jack Unit
+{
+	@TechRequired = advMetalworks
+}
+
+@PART[Benjee10_MMSEV_logisticslong]:NEEDS[CommunityTechTree]
+// PT-M100S Logistics Module
+{
+	@TechRequired = spaceExploration
+}
+
+@PART[Benjee10_MMSEV_logisticsShort]:NEEDS[CommunityTechTree]
+// PT-M025S Logistics Module
+{
+	@TechRequired = spaceExploration
+}
+
+@PART[Benjee10_MMSEV_baseMount1-875]:NEEDS[CommunityTechTree]
+// PT-SA100 Module Adapter (1.875m)
+{
+	@TechRequired = advMetalworks
+}
+
+@PART[Benjee10_MMSEV_baseNode1-25]:NEEDS[CommunityTechTree]
+// PT-M075NA Quad-Node (Horizontal)
+{
+	@TechRequired = spaceExploration
+}
+
+@PART[Benjee10_MMSEV_baseNode_vertical]:NEEDS[CommunityTechTree]
+// PT-M075NB Configurable Node Module (Vertical)
+{
+	@TechRequired = spaceExploration
+}
+
+@PART[Benjee10_base_platform]:NEEDS[CommunityTechTree]
+// PT-SP100 Structural Support Unit
+{
+	@TechRequired = advMetalworks
+}
+
+@PART[Benjee10_MMSEV_baseRadiator]:NEEDS[CommunityTechTree]
+// PT-Z100R Flat Aspect Radiator Panel
+{
+	@TechRequired = largeElectrics
+}
+
+@PART[Benjee10_MMSEV_baseRailings]:NEEDS[CommunityTechTree]
+// K-100 Kerbal Stabiliser Rails
+{
+	@TechRequired = advMetalworks
+}
+
+@PART[Benjee10_MMSEV_baseSolarArray]:NEEDS[CommunityTechTree]
+// PT-Z100S Flat Aspect Solar Array
+{
+	@TechRequired = largeElectrics
+}
+
+@PART[Benjee10_base_stairs]:NEEDS[CommunityTechTree]
+// K-500 Deployable Staircase
+{
+	@TechRequired = advExploration
+}
+
+@PART[Benjee10_MMSEV_base_TNode1-25]:NEEDS[CommunityTechTree]
+// PT-M075NT T-node Module
+{
+	@TechRequired = spaceExploration
+}
+
+@PART[Benjee10_MMSEV_baseTurbineBoom]:NEEDS[CommunityTechTree]
+// TM-10B Modular Structural Boom (0.3125m)
+{
+	@TechRequired = largeElectrics
+}
+
+@PART[Benjee10_MMSEV_baseTurbineBoomMount]:NEEDS[CommunityTechTree]
+// TM-05B Modular Structural Boom Mount
+{
+	@TechRequired = largeElectrics
+}
+
+@PART[Benjee10_MMSEV_baseTurbineGiant]:NEEDS[CommunityTechTree]
+// TRB-100 Deployable Static Wind Turbine
+{
+	@TechRequired = largeElectrics
+}
+
+@PART[Benjee10_MMSEV_baseTurbineHelicalLarge1]:NEEDS[CommunityTechTree]
+// TRB-0H3-A Helical Wind Turbine
+{
+	@TechRequired = largeElectrics
+}
+
+@PART[Benjee10_MMSEV_baseTurbineHelicalLarge2]:NEEDS[CommunityTechTree]
+// TRB-0H3-B Vertical-Axis Wind Turbine
+{
+	@TechRequired = largeElectrics
+}
+
+@PART[Benjee10_MMSEV_baseTurbineHelicalSmall]:NEEDS[CommunityTechTree]
+// TRB-0H2 Helical Wind Turbine
+{
+	@TechRequired = largeElectrics
+}
+
+@PART[Benjee10_MMSEV_baseTurbineHelicalTiny]:NEEDS[CommunityTechTree]
+// TRB-0H1 Vertical-Axis Wind Turbine
+{
+	@TechRequired = largeElectrics
+}
+
+@PART[Benjee10_MMSEV_baseTurbineHighDensity]:NEEDS[CommunityTechTree]
+// TRB-1D-3 Heavy-Duty Wind Turbine
+{
+	@TechRequired = largeElectrics
+}
+
+@PART[Benjee10_MMSEV_baseTurbineLowDensity]:NEEDS[CommunityTechTree]
+// TRB-1D-1 Low-Density Wind Turbine
+{
+	@TechRequired = largeElectrics
+}
+
+@PART[Benjee10_MMSEV_baseTurbineMedDensity]:NEEDS[CommunityTechTree]
+// TRB-1D-2 Medium-Density Wind Turbine
+{
+	@TechRequired = largeElectrics
+}
+
+@PART[Benjee10_MMSEV_baseTurbineMotor]:NEEDS[CommunityTechTree]
+// TM-10M Yaw Axis Drive (0.3125m)
+{
+	@TechRequired = actuators
+}
+
